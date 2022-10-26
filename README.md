@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Maria
 
 - 👩‍🎓 I’m currently studying final year at Department of Informatics and Telecommunication, National and Kapodistrian University of Athens (remotely from Sweden) 
-- 🌱 I’m currently learning Grahics, Algorithms, AI
+- 🌱 I’m currently learning Graphics, Algorithms, AI, Data Bases
 
 ### 🔨 Languages and Tools
 
